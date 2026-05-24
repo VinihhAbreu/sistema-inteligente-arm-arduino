@@ -26,4 +26,4 @@ O sistema monitora a umidade do solo e aciona automaticamente uma bomba de água
 - Protoboard
 
 ## Autor
-Seu Nome
+Vinicius Rogerio Andrade de Abreu
